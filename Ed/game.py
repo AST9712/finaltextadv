@@ -1,3 +1,4 @@
+import padlock
 gameStageNumber = 0 #This is the stage
 
 def dead():
@@ -42,7 +43,12 @@ def answers(x):
         print("Walking slowly towards the creature, you see its a 7ft skeleton\nThe head has the knife stuck into the skull, the body is lying on the floor")
         print("You find a scroll inside the ribs! It's a code for the door :)")
     elif getStage() == 4 and x == "b":
-        print("")
+        print("As you explore behind you, a huge door")
+        padlock.kacper()
+        if padlock.win == False:
+            print("FALSE")
+        elif padlock.win == True:
+            print("True")
 
         #next part of game does kacper's game with guessing
 
