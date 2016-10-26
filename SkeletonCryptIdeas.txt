@@ -1,6 +1,6 @@
 Skeleton Crypt
 
-It will be basically be a text-rpg game and based on your decisions you will get to either keep going or die.The game will be very similar to the Terminus because you will get
+It will basically be a text-rpg game and based on your decisions you will get to either keep going or die.The game will be very similar to the Terminus because you will get
 to go around places and based on your decisions you will get to interact with things in the world.Unlike the Terminus game,the text adventure game is going to be simpler 
 as you will only get to choose between 2 or 3 answers ranging from to a) to c) and if you get 2 straight wrong answers you die,the game is over and you basically have to begin all 
 over again.
